@@ -4,4 +4,4 @@ A nice News Site template i made
 
 viewable at: 
 
-faraday-news.byethost4.com/ 
+www.faraday-news.byethost4.com/ 
