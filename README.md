@@ -2,6 +2,5 @@
 A News Site template i made
 
 
-viewable at: 
-
+# viewable at: 
 http://www.faraday-news.byethost4.com/#
