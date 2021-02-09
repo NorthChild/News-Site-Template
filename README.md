@@ -1,5 +1,5 @@
 # News-Site-Template
-A News Site template i made
+A Science based News template
 
 
 # viewable at: 
