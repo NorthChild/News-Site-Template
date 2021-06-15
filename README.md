@@ -3,4 +3,4 @@ A Science based News template
 
 
 # viewable at: 
-http://www.faraday-news.byethost4.com/#
+http://faradaynews.principia-nova.net/
